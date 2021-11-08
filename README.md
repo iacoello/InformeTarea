@@ -13,7 +13,7 @@ Los objetivos de investigación deben cumplir ciertas características:
 * Deben estar redactados utilizando verbos en infinitivo 
 * Deben ser alcanzables por el investigador. 
 * Tienen que estar ligados con el tiempo. 
-
+fde
 
 Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
 
